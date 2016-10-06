@@ -1,0 +1,7 @@
+{
+    "description": "esptool-ck",
+    "name": "tool-esptool",
+    "system": ["freebsd_amd64"],
+    "url": "https://github.com/igrr/esptool-ck",
+    "version": "1.409.0"
+}
